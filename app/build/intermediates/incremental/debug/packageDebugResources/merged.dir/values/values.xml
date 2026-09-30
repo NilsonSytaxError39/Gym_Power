@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="estados_pago">
+        <item>PAGADO</item>
+        <item>PENDIENTE</item>
+    </string-array>
+    <color name="accent">#00A86B</color>
+    <color name="background">#F4F7FB</color>
+    <color name="paid">#16845B</color>
+    <color name="pending">#B45309</color>
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#0D47A1</color>
+    <string name="app_name">Gym Power</string>
+    <string name="empty_clients">Aún no hay clientes registrados</string>
+    <string name="empty_payments">No hay pagos registrados para esta fecha</string>
+    <string name="search_clients">Buscar cliente</string>
+    <style name="Theme.GymPower" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="android:navigationBarColor">@color/background</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

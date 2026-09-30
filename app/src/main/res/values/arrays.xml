@@ -1,0 +1,6 @@
+<resources>
+    <string-array name="estados_pago">
+        <item>PAGADO</item>
+        <item>PENDIENTE</item>
+    </string-array>
+</resources>

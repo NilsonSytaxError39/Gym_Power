@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.gympower.app-debug-42:/layout_activity_pagos.xml.flat",
+        "source": "com.gympower.app-main-44:/layout/activity_pagos.xml"
+    },
+    {
+        "merged": "com.gympower.app-debug-42:/layout_item_cliente.xml.flat",
+        "source": "com.gympower.app-main-44:/layout/item_cliente.xml"
+    },
+    {
+        "merged": "com.gympower.app-debug-42:/layout_activity_cliente_form.xml.flat",
+        "source": "com.gympower.app-main-44:/layout/activity_cliente_form.xml"
+    },
+    {
+        "merged": "com.gympower.app-debug-42:/layout_activity_main.xml.flat",
+        "source": "com.gympower.app-main-44:/layout/activity_main.xml"
+    }
+]

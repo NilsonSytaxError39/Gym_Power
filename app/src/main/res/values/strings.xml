@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Gym Power</string>
+    <string name="search_clients">Buscar cliente</string>
+    <string name="empty_clients">Aún no hay clientes registrados</string>
+    <string name="empty_payments">No hay pagos registrados para esta fecha</string>
+</resources>
